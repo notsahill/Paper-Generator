@@ -10,7 +10,7 @@
     "start": "node server.js",
     "dev": "node server.js",
     "stop": "npm stop",
-    "build": "npm run install"
+    "build": "echo 'No build step required'"
   },
   "author": "Mohd Sahil",
   "license": "ISC",
